@@ -13,7 +13,7 @@ This project is a food website created using React and Vite. It showcases variou
 - JavaScript
 - HTML
 - CSS
-- React-Motion
+- Framer-Motion
 
 ## Deployment
 - Deployed by netlify https://foodieorganic.netlify.app/
